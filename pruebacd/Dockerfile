@@ -1,0 +1,1 @@
+FROM msmora/httpd:latest
