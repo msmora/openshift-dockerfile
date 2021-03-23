@@ -1,2 +1,2 @@
-FROM docker.io/msmora/httpd:27
+FROM docker.io/msmora/httpd:28
 USER root
