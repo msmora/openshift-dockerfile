@@ -1,1 +1,1 @@
-FROM msmora/httpd:latest
+FROM docker.io/msmora/httpd:latest
