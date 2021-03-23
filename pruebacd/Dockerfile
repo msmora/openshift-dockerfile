@@ -1,2 +1,2 @@
-FROM docker.io/msmora/httpd:latest
+FROM docker.io/msmora/nginx:latest
 USER root
